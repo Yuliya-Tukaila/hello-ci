@@ -27,5 +27,11 @@
         {
             return a * a;
         }
+
+        public static double Root(double d, int a, int b)
+        {
+            return d = 0.5*(b + a / b);
+        }
+
     }
 }
