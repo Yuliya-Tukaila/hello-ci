@@ -23,10 +23,6 @@
             return a / b;
         }
 
-        public static int Square(int a)
-        {
-            return a * a;
-        }
 
         public static double Root(double d, int a, int b)
         {
