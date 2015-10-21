@@ -1,15 +1,9 @@
 Hello, CI!
 =======
 
-Test projects for "Hello, CI" training
+Test projects for "Hello, CI"
 
 Build
-=======
-Java project: execute Maven goal
-```
-mvn test
-```
-use Maven version 3.0.5 or higher
 
 .NET project: execute MSBuild
 ```
